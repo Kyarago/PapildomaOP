@@ -6,6 +6,9 @@ Programa pereina per tekstinį failą "Lotynu.txt" ir į failą "Atsakymai.txt" 
 
 **Atsisiuntę rasite:**
 Papildoma.cpp - programos _main()_ funkcija
+
 Fjos.h - programos funkcijas turinti antraštė
+
 Fjos.cpp - programos funkcijų aprašas
+
 Lotynu.txt - tekstinis failas su ilgu lotynišku tekstu į kurį tyčia įpainiota nuorodų
