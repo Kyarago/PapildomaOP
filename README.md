@@ -5,6 +5,7 @@ __Programos veikla:__
 Programa pereina per tekstinį failą "Lotynu.txt" ir į failą "Atsakymai.txt" išveda žodžių, kurie pasikartoja bent 2 kartus sąrašą ir parašo, kuriose eilutėse jie pasikartoja. Taip pat iš teksto išrenka nuorodas ir jas atspausdina atskirai.
 
 **Atsisiuntę rasite:**
+
 Papildoma.cpp - programos _main()_ funkcija
 
 Fjos.h - programos funkcijas turinti antraštė
